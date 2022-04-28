@@ -1,2 +1,2 @@
 # pyfiletools
-A simple wrapper
+A simple library for interacting with files in Python
